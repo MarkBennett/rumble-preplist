@@ -1,6 +1,20 @@
 {
-  "slides":       ["welcome.html"],
-  "title":        "Your presentation",
-  "plugins":      ["resize", "iphone"],
-  "transitions":  "fade"
+  "plugins": [
+    "resize",
+    "iphone"
+  ],
+  "transitions": "fade",
+  "title": "RailsRumble Preplist: Are you ready to rumble?",
+  "slides": [
+    "welcome.html",
+    "read-the-rules.html",
+    "have-a-plan.html",
+    "keep-it-simple.html",
+    "dont-experiment.html",
+    "teammates.html",
+    "know-github.html",
+    "know-linode.html",
+    "stay-in-touch.html",
+    "dropbox.html"
+  ]
 }
