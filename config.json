@@ -7,6 +7,8 @@
   "title": "RailsRumble Preplist: Are you ready to rumble?",
   "slides": [
     "welcome.html",
+    "about-me.html",
+    "are-you-ready-to-rumble.html",
     "read-the-rules.html",
     "have-a-plan.html",
     "keep-it-simple.html",
